@@ -2,7 +2,4 @@
 
 Build with:
 
--PHP
--Javascript
--Bootstrap 4
--MySQL
+PHP, Javascript, Bootstrap 4, MySQL
